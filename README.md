@@ -25,7 +25,7 @@ The goal is not to prescribe customer treatments directly, but to create a more 
 
 ## Dataset
 
-This project uses the **dunnhumby Complete Journey** grocery retail dataset.
+This project uses the **dunnhumby Complete Journey** grocery retail dataset. https://www.dunnhumby.com/source-files/
 
 The transaction data is recorded at the **product level**, meaning one shopping basket may contain multiple transaction rows.
 
