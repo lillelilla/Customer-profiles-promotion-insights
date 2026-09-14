@@ -19,13 +19,14 @@ This project therefore asks:
 
 > **How do customers with different levels of historical sales and expected future purchases differ in their discount and coupon patterns, and what promotion or engagement approaches could these differences suggest for future exploring?**
 
-The goal is not to prescribe customer treatments directly, but to create a more forward-looking customer view that can support further analysis and experimentation.
+The goal is not to decide exactly how each customer should be treated, but to create a more forward-looking customer view that can support further analysis and experimentation.
 
 ---
 
 ## Dataset
 
 This project uses the **dunnhumby Complete Journey** grocery retail dataset. https://www.dunnhumby.com/source-files/
+*(Only the transaction data is used in this project. Other available files, such as demographic or campaign-related data, are outside the scope of the current analysis)*
 
 The transaction data is recorded at the **product level**, meaning one shopping basket may contain multiple transaction rows.
 
@@ -90,7 +91,7 @@ Customer profiles
         ↓
 Promotion-pattern comparison
         ↓
-Business hypotheses for further testing
+Business implications for further testing/ exploration
 ```
 ---
 
@@ -110,4 +111,5 @@ Business hypotheses for further testing
 | **PowerPoint** | Translating analytical results into a business-focused presentation. |
 
 ---
+
 
