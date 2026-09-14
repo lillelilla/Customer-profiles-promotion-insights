@@ -17,7 +17,7 @@ Two households may have generated similar historical sales while having differen
 
 This project therefore asks:
 
-> **How do customers with different combinations of historical sales and expected future purchases differ in their observed discount and coupon patterns, and what promotion or engagement hypotheses could these differences motivate for future testing?**
+> **How do customers with different levels of historical sales and expected future purchases differ in their discount and coupon patterns, and what promotion or engagement approaches could these differences suggest for future exploring?**
 
 The goal is not to prescribe customer treatments directly, but to create a more forward-looking customer view that can support further analysis and experimentation.
 
